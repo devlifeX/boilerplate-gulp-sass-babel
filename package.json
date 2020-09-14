@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/devlifeX/boilerplate-gulp-sass-babel.git"
   },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
+  },
   "keywords": [
     "boilerplate",
     "scss",
