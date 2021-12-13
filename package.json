@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-gulp-sass-bable",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A boilerplate for rapid front-end development",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,8 @@
     "babel",
     "front-end"
   ],
-  "author": "dariushvesal",
-  "license": "ISC",
+  "author": "Dariush vesal",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/devlifeX/boilerplate-gulp-sass-babel/issues"
   },
@@ -40,7 +40,7 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-babel": "^8.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.0.0",
     "gulp-sourcemaps": "^2.6.4",
     "run-sequence": "^2.2.1",
     "vinyl-buffer": "^1.0.1",
